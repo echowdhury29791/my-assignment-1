@@ -1,0 +1,146 @@
+body{
+    margin-left: 500px;
+    margin-right: 500px;
+ 
+ 
+ }
+ 
+ .font-deco{
+     font-family: 'Fira Code', monospace;
+     font-size: 30px;
+     padding-top: 110px;
+ }
+ 
+ section{
+     display: flex;
+ }
+ p{
+     font-family: 'PT Serif', serif;
+     text-align: justify;
+     word-spacing: 2px;
+     padding-bottom: 20px ;
+ }
+ 
+ #h2-color{
+     color: orange;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-size: 30px;
+ }
+ 
+ .image-01 img{
+     width: 300px;
+     padding-left: 100px;
+     
+ }
+ .button{
+     text-decoration: none;
+     background-color: tomato;
+     padding: 10px 40px;
+     font-size: 20px;
+     color: whitesmoke;
+     border-radius: 5px;    
+ }
+ 
+ .scroll{
+     padding-top: 20px;
+ 
+ }
+ #middle{
+     padding-left: 300px;
+     font-family: 'PT Serif', serif;
+     font-size: 30px;
+ }
+ 
+ #color{
+     color: orange;
+ }
+ .img-01 img{
+     height: 150px;
+     
+ }
+ .bg-01{
+     background-color: rgb(209, 232, 241);
+     width: 250px;
+     border-radius: 20px;
+     padding-left: 10px;
+ }
+ .img-02 img{
+     height: 150px;
+ }
+ .bg-02{
+     background-color: rgba(241, 203, 209, 0.952);
+     width: 250px;
+     border-radius: 20px;
+     padding-left: 10px;
+ }
+ .bg-03{
+     background-color: yellow;
+     width: 250px;
+     border-radius: 20px;
+     padding-left: 10px;
+     
+ }
+ div{
+     float: left;
+     margin: 20px;
+ }
+ .mid-img{
+     width: 300px;
+     padding-top: 50px;
+     padding-left: 20px;
+     
+ }
+ .text-01 h1{
+     margin-top: 100px;
+     padding-left: 50px;
+ }
+ .text-01 p{
+ 
+     padding-left: 50px;
+ }
+ .button-01{
+     text-decoration: none;
+     padding: 10px 40px;
+     background-color: orangered;
+     color: whitesmoke;
+     font-size: 20px;
+     border-radius: 5px;
+     margin-left: 40px; 
+ }
+ .img-05{
+     width: 300px;
+     padding-left: 300px;
+     padding-top: 20px
+     
+ }
+ .text{
+     padding-top: 20px;
+ }
+ .button-03{
+     text-decoration: none;
+     background-color: chocolate;
+     padding: 10px 40px;
+     margin-left: 20px;
+       
+ }
+ .deco{
+     padding-top: 250px;
+     border-radius: 10px;
+ }
+ .footer{
+     background-color: black;
+     color: whitesmoke;
+     text-align: center;
+     width: 800px;
+     margin-left: 200px;
+ 
+ }
+ .text-04{
+     font-family: 'Moon Dance', cursive;
+ }   
+ .text-03{
+     color: rgb(224, 61, 33);
+ }
+ .text-06{
+     font-size: 13px;
+ }
